@@ -1,4 +1,8 @@
-## Projekt im Bachelor 2018
+## [Projekt im Bachelor 2018](https://github.com/Projekt-Bachelor)
+
+### Installation Applikation
+
+* [Installation Intellij](installation-intellij)
 
 ### Hilfreiche Tools
 
