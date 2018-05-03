@@ -19,6 +19,12 @@ Hier finden sich die angegebenen Links aus den Vorträgen mit noch ein paar weit
 * [https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
 * [https://www.youtube.com/watch?v=MCZWyt9mKSI](https://www.youtube.com/watch?v=MCZWyt9mKSI)
 
+#### Dokumentation mit Doxygen / Clean-Code
+
+* [http://www.doxygen.org/](http://www.doxygen.org/)
+* [https://www.graphviz.org/](https://www.graphviz.org/)
+* [http://clean-code-developer.de/](http://clean-code-developer.de/)
+
 #### Funktionale Programmierung / Java Streams
 
 * [https://blog.codecentric.de/2013/10/java-8-erste-schritte-mit-lambdas-und-streams/](https://blog.codecentric.de/2013/10/java-8-erste-schritte-mit-lambdas-und-streams/)
