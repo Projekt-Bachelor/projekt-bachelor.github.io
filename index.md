@@ -1,5 +1,13 @@
 ## Projekt im Bachelor 2018
 
+### Hilfreiche Tools
+
+* [Markdown](https://de.wikipedia.org/wiki/Markdown)
+* [Github Markdown](https://guides.github.com/features/mastering-markdown/)
+* [Vortrag-Slides in Markdown](https://yhatt.github.io/marp/)
+* [Intellij Community Edition](https://www.jetbrains.com/idea/download/)
+* [Eclipse](https://www.eclipse.org/downloads/)
+
 ### Vorträge
 
 Hier finden sich die angegebenen Links aus den Vorträgen mit noch ein paar weiteren Informationen
@@ -13,6 +21,12 @@ Hier finden sich die angegebenen Links aus den Vorträgen mit noch ein paar weit
 * [https://git-scm.com/book/de/v1](https://git-scm.com/book/de/v1)
 * [https://try.github.io/levels](https://try.github.io/levels)
 * [https://guides.github.com/features/issues/](https://guides.github.com/features/issues/)
+
+##### Git Clients
+
+* [Git](https://git-scm.com/downloads)
+* [Sourcetree](https://www.sourcetreeapp.com/)
+* [Tortoise Git](https://tortoisegit.org/) (_es sollte zuerst Git installiert sein_)
 
 #### Maven 
 
