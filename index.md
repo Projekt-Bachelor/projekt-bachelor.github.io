@@ -3,6 +3,7 @@
 ### Installation Applikation
 
 * [Installation Intellij](installation-intellij)
+* [Installation Eclipse](installation-eclipse)
 
 ### Hilfreiche Tools
 
