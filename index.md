@@ -10,6 +10,7 @@
 * [Markdown](https://de.wikipedia.org/wiki/Markdown)
 * [Github Markdown](https://guides.github.com/features/mastering-markdown/)
 * [Vortrag-Slides in Markdown](https://yhatt.github.io/marp/)
+* [Vortragsfolien als Markdown im Browser](https://remarkjs.com/)
 * [Intellij Community Edition](https://www.jetbrains.com/idea/download/)
 * [Eclipse](https://www.eclipse.org/downloads/)
 
