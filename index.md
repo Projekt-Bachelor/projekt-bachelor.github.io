@@ -1,4 +1,3 @@
-hallo
 ## [Projekt im Bachelor 2018](https://github.com/Projekt-Bachelor)
 
 ### Installation Applikation
