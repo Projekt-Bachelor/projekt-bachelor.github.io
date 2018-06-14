@@ -1,9 +1,9 @@
 ## [Projekt im Bachelor 2018](https://github.com/Projekt-Bachelor)
 
-### Erstellte Webapplikationen
+### Erstellte Webapplikationen und Dokumentationen
 
-* [Poker](https://project-poker.herokuapp.com/)
-* [Tick-Tack-Toe](http://thawing-journey-93339.herokuapp.com/)
+* [Poker](https://project-poker.herokuapp.com/) / [Dokumentation](https://projekt-bachelor.github.io/Poker/)
+* [Tick-Tack-Toe](http://thawing-journey-93339.herokuapp.com/) / [Dokumentation](https://projekt-bachelor.github.io/Tick-Tack-Toe/)
 
 ---
 
