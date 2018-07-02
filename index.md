@@ -4,6 +4,7 @@
 
 * [Poker](https://project-poker.herokuapp.com/) / [Dokumentation](https://projekt-bachelor.github.io/Poker/)
 * [Tick-Tack-Toe](http://thawing-journey-93339.herokuapp.com/) / [Dokumentation](https://projekt-bachelor.github.io/Tick-Tack-Toe/)
+* [Space-Invaders](http://tuc-space-invaders.herokuapp.com/) / [Dokumentation](https://projekt-bachelor.github.io/Space-Invaders)
 
 ---
 
